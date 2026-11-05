@@ -45,7 +45,7 @@ rellénalo (Windows: `Copy-Item .env.example .env`; macOS y Linux: `cp .env.exam
 Después, desde `biblioteca-plataforma`:
 
 ```bash
-docker compose up -d --build --wait
+bash levantar.sh
 ```
 
 Termina cuando todos los servicios están `healthy` (o arriba, los que no tienen comprobación de salud).
