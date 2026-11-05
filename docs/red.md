@@ -34,7 +34,7 @@
 | `sg-nat` | todos | `sg-servicios`, `sg-gestion`, `sg-mq` y `sg-datos` | Salida a internet de las subredes privadas |
 | `sg-gestion` | ninguno | | Se entra por Session Manager |
 
-## Azure · VNet 10.1.0.0/16 · northcentralus (por confirmar; pendiente E2)
+## Azure · VNet 10.1.0.0/16 · westus3
 
 | Subred | Rango | Salida a internet |
 |---|---|---|
